@@ -1,7 +1,7 @@
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
@@ -17,6 +17,12 @@ Lifelong Learner, currently working as budagh kompeni.
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
+
+### <summary><strong>Stastistic</strong></summary>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+</p>
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/yours">
