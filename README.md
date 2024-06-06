@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Far&</h1>
 <h3 align="center">This is me Far& I will share a useful Termux script for you</h3>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" /> <?p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">About me :3 :</h3>
@@ -32,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rysasus&show_icons=true&locale=en&layout=compact" alt="rysasus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rysasus&show_icons=true&locale=en" alt="rysasus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=slateorange&show_icons=true" alt="rysasus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rysasus&" alt="rysasus" /></p>
 
