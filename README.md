@@ -1,13 +1,5 @@
-<p align="center"> 
-  <img src=" https://capsule-render.vercel.app/api?text=Hai Semuanya!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
 
-![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
-
-<a href=" https://www.instagram.com/thepiyushmalhotra/ "><img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c -b14e-81f0a3f83a06.png "/> </a>
-
-
-<h1 align="center">Hi 👋, I'm Far&</h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=98&color=F7D433FF&background=63596700&center=true&vCenter=true&random=false&width=399&height=35&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <h3 align="center">This is me Far& I will share a useful Termux script for you</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">About me :3 :</h3>
@@ -25,6 +17,7 @@
 - 📫 How to reach me **.**
 
 - ⚡ Fun fact **.**
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rysasus&label=Profile%20views&color=0e75b6&style=flat" alt="rysasus" /> </p>
 
@@ -146,3 +139,6 @@ More on [til.simonwillison.net](https://til.simonwillison.net/)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)](https://github.com/rysasus/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
