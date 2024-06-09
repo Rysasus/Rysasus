@@ -1,3 +1,12 @@
+<p align="center"> 
+  <img src=" https://capsule-render.vercel.app/api?text=Hai Semuanya!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
+
+![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+
+<a href=" https://www.instagram.com/thepiyushmalhotra/ "><img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c -b14e-81f0a3f83a06.png "/> </a>
+
+
 <h1 align="center">Hi 👋, I'm Far&</h1>
 <h3 align="center">This is me Far& I will share a useful Termux script for you</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
